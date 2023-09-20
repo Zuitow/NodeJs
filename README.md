@@ -22,4 +22,4 @@ Para sair: SALVAR Ctrl + O verificar o nome do arquivo e selecionar SIM e SAIR C
 
 - Final: Para sair do Nodeenv é apenas digitar:(deactivate_node), LEMBRE-SE não é possivel usar comandos nodeenv se não for ativado.
 
-
+FRAMEWORKS UTILIZADAS: nano, nodejs, nodeenv, github.
